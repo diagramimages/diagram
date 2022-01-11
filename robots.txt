@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://diagramimages.github.io/diagram/sitemap.xml
